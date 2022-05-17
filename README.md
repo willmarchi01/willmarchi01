@@ -2,10 +2,10 @@
   Welcome to Willian Marchi profile!
 </h3>
 <p align="center">
-  <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=F72424&center=true&vCenter=true&lines=Front-End+Web+Developer;Passionate+about+programming."></a>
+  <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=31ABE1&center=true&vCenter=true&lines=Front-End+Web+Developer;Passionate+about+programming."></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmarchi01&show_icons=true&theme=tokyonight)
 
 ## Steak Stats 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willmarchi01&theme=react&hide_border=true)](https://git.io/streak-stats)
