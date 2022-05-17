@@ -2,7 +2,7 @@
   Welcome to Willian Marchi profile!
 </h3>
 <p align="center">
-  <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20Developer;#alwayscoding....&center=true&vCenter=true&width=500&height=60"></a>
+  <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=F72424&center=true&vCenter=true&lines=Front-End+Web+Developer;Passionate+about+programming."></a>
 </p>
 
 ## Github Stats  
