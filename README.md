@@ -1,6 +1,5 @@
 <h3 align="center">
   Welcome to Willian Marchi profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
   <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20Developer;#alwayscoding....&center=true&vCenter=true&width=500&height=60"></a>
