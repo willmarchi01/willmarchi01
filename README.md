@@ -5,10 +5,7 @@
   <a href="https://github.com/willmarchi01/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=F72424&center=true&vCenter=true&lines=Front-End+Web+Developer;Passionate+about+programming."></a>
 </p>
 
-## Github Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=willmarchi01&theme=react&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Steak Stats 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willmarchi01&theme=react&hide_border=true)](https://git.io/streak-stats)
