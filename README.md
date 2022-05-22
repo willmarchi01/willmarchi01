@@ -9,7 +9,7 @@
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Will-CSS" height="30" width="40" src="">
+  <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/willmarchi01/willmarchi01/04bc6b2daae1234d7215a2af071980a59384cebe/bootstrap-seeklogo.com.svg">
 </div>
 
 ## GitHub Stats
